@@ -8,8 +8,9 @@ https://mybinder.org/v2/gh/webmodemo/demoserver2/master
 # Notes
 The "requirements.txt" file lists all Python libraries that your notebooks
 need, including the following for the default WebMO python scripts:
-numpy==1.16.*
-matplotlib==3.*
+numpy
+matplotlib
+webmo
 
 The "runtime.txt" file specifies the version of python that will be used:
 python-3.8
